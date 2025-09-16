@@ -9,7 +9,7 @@ from fastapi.middleware.cors import CORSMiddleware
 # Initialize app first
 app = FastAPI()
 
-# Add middleware
+# Adding  middleware
 app.add_middleware(
     CORSMiddleware,
     allow_origins=["*"],
