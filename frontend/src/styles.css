@@ -1,0 +1,14 @@
+body {
+  background: #f7f7f7;
+  margin: 0;
+  padding: 20px;
+}
+
+textarea, input {
+  font-family: inherit;
+  font-size: 14px;
+}
+
+button {
+  padding: 6px 10px;
+}
